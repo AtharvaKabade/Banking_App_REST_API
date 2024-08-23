@@ -1,3 +1,15 @@
+Developed a robust RESTful API using Spring Boot for managing bank accounts, including account creation, deposits, withdrawals, and deletions. Utilized MySQL for efficient data storage and management. Employed Postman for comprehensive API testing and validation. The API adheres to REST principles, ensuring efficient, scalable communication with optimized query handling and thorough testing.
+
+Robust API that provides RESTful endpoints for managing bank accounts, including:
+
+🌟 Creating accounts
+
+💰 Making deposits and withdrawals
+
+🚫 Deleting accounts
+
+The API follows REST principles for efficient and scalable communication.
+
 <h1 align="center">Hi 👋, I'm Atharva Kabade</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
